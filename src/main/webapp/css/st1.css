@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.header {
+	width: 50%;
+	height: 150px;
+	background-color: #D8DBE9;
+	margin-left: 25%;
+}
+
+.navigater {
+	width: 50%;
+	height: 50px;
+	background-color: #58659D;
+	margin-left: 25%;
+}
+
+.content {
+	width: 50%;
+	height: 350px;
+	background-color: #E5E7F0;
+	margin-left: 25%;
+}
+
+.footer {
+	width: 50%;
+	height: 100px;
+	background-color: #343B5B;
+	margin-left: 25%;
+}
